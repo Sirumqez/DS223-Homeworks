@@ -3,7 +3,7 @@
 
 **Author:** Sereen Sipan  
 **Course:** Marketing Analytics  
-**Instructor:** Karen Hovhannisyan 
+**Instructor:** Karen Hovhannisyan   
 ** Teaching Assistant:** Artur Avagyan
 ---
 
