@@ -4,7 +4,7 @@
 **Author:** Sereen Sipan  
 **Course:** Marketing Analytics  
 **Instructor:** Karen Hovhannisyan   
-** Teaching Assistant:** Artur Avagyan
+**Teaching Assistant:** Artur Avagyan
 ---
 
 ## Executive Summary
