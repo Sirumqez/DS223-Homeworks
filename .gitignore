@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# IDE settings
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Ruserdata
